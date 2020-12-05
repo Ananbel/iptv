@@ -1,202 +1,148 @@
 #EXTM3U
-#PLAYLIST:hlscat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",#0 (TV)(1080)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/55084?checkedby:hlscat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",#0 (TV)(720)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/55083?checkedby:hlscat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",#0 FHD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51610?checkedby:hlscat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",#0 SD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51609?checkedby:hlscat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",#VAMOS
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51678?checkedby:hlscat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",#VAMOS HD
-http://rv.therevenge.co:80/0555141902/3893970296/79342?checkedby:hlscat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",#VAMOS HD
-http://185.71.64.167:80/7654321/1234567/79342?checkedby:hlscat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",#VAMOS HD
-http://185.71.64.167:80/7654321/1234567/79229?checkedby:hlscat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",#Vamos (TV)(1080)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/54975?checkedby:hlscat.com
-#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",(GE) 1 TV
-http://tv.cdn.xsg.ge/gpb-1tv/index.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",---------- Cinema-FHD/HD ----------
-http://backonline.tech:80/restrimcanali/BsJoeCT9Yj/63257?checkedby:hlscat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",0 HD
-http://rv.therevenge.co:80/0555141902/3893970296/79211?checkedby:hlscat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",0 HD
-http://185.71.64.167:80/7654321/1234567/79348?checkedby:hlscat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",0 HD
-http://185.71.64.167:80/7654321/1234567/79211?checkedby:hlscat.com
-#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",1 DNES V NOCI
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/47322?checkedby:hlscat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",1 Music Channel
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46977?checkedby:hlscat.com
-#EXTINF:0 tvg-country="RO" tvg-logo="" group-title="Undefined",1 Music Channel
-https://ch.iptvmate.net/b8799300af8ecf28e89b77029dfa9e6d.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",1+1
-http://epsilon-c1.liux.tv/ua-1plus1/mono.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="Undefined",1+1
-http://myott.tv/stream/2Z5D36KMXN/172.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",100% NL TV
-http://rv.therevenge.co:80/4908160900/9082042820/79576?checkedby:hlscat.com
-#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",100% NL TV
-http://iptvtree.net:8080/82a28920/ce46da4c/5365?checkedby:hlscat.com
-#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",100% NL TV
-http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/79765?checkedby:hlscat.com
-#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",100% NL TV
-http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/79576?checkedby:hlscat.com
-#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",100% NL TV
-http://rv.therevenge.co:80/691616211141151/691616211141151/79576?checkedby:hlscat.com
-#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",100% TV
-http://iptvtree.net:8080/82a28920/ce46da4c/69183?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="Undefined",112 Украина HD
-http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_mid/index.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="Undefined",112 Украина [FHD]
-http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_hi/index.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UA" tvg-logo="https://i.imgur.com/cP5PSl2.jpg" group-title="News",112 Україна
-https://app.live.112.events/hls/112hd_hi/index.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UA" tvg-logo="https://i.imgur.com/cP5PSl2.jpg" group-title="News",112 Україна
-https://app.live.112.events/hls-ua/112hd_mid/index.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UA" tvg-logo="https://i.imgur.com/cP5PSl2.jpg" group-title="News",112 Україна
-https://app.live.112.events/hls-ua/112hd_hi/index.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UA" tvg-logo="https://i.imgur.com/cP5PSl2.jpg" group-title="News",112 Україна
-https://app.live.112.events/hls/112hd_mid/index.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",12 канал (Омск)
-http://rt-sib-omsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/variant.m3u8?version=2&checkedby:hlscat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",123TV HD
-http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81523?checkedby:hlscat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",123TV HD
-http://rv.therevenge.co:80/4908160900/9082042820/83137?checkedby:hlscat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",123TV HD
-http://rv.therevenge.co:80/691616211141151/691616211141151/81523?checkedby:hlscat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",123TV HD
-http://rv.therevenge.co:80/691616211141151/691616211141151/83137?checkedby:hlscat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",123TV HD
-http://rv.imax.re:80/3Tst9ZqgUA/2dqWR5IiMh/81523?checkedby:hlscat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",123TV HD
-http://rv.imax.re:80/3Tst9ZqgUA/2dqWR5IiMh/83137?checkedby:hlscat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",123TV HD
-http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83137?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",13 ULICA HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/47395?checkedby:hlscat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",13TH STREET
-http://myiptv.online:80/robson/robson123/72853?checkedby:hlscat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",13TH STREET HD
-http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81478?checkedby:hlscat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",13TH STREET HD
-http://rv.therevenge.co:80/4908160900/9082042820/83094?checkedby:hlscat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",13TH STREET HD
-http://mongomax.myeffect.net:8079/live/vkund1/kundv1/477.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",13TH STREET HD
-http://rv.therevenge.co:80/691616211141151/691616211141151/83094?checkedby:hlscat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",13TH STREET HD
-http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/83094?checkedby:hlscat.com
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",13eme_Rue_HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/3346?checkedby:hlscat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",13th Street FHD
-http://clientportal-worldiptv.club:8080/Albania/12345678/9675?checkedby:hlscat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",13th Street HD
-http://mondial.cybergroup.top:8080/Bughi/Bughi/87850?checkedby:hlscat.com
-#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",192 TV
-http://rv.therevenge.co:80/4908160900/9082042820/79778?checkedby:hlscat.com
-#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",192 TV
-http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/79587?checkedby:hlscat.com
-#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",192 TV
-http://dimapro.cz:8080/N2vdf6yju0/ntH7B86Dp6/18557?checkedby:hlscat.com
-#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",192 TV FHD
-http://iptvtree.net:8080/82a28920/ce46da4c/2445?checkedby:hlscat.com
-#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",192TV
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/46449?checkedby:hlscat.com
-#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",192TV
-http://tv.nova-iptv.com:80/Robert_Valpotic/HuAYmBHcU2/8333?checkedby:hlscat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",1NTVSPOR 1 [HD]
-http://46.105.178.212:8484/ntvspor.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",20 Mediaset
-http://myiptv.online:80/robson/robson123/74873?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Undefined",20 Mediaset HD
-http://mondial.cybergroup.top:8080/Bughi/Bughi/27871?checkedby:hlscat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",24 HABER FHD
-http://cdnmedia.me:8080/abdullahagbulut/blut54/83?checkedby:hlscat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",24 HABER UHD
-http://rv.therevenge.co:80/691616211141151/691616211141151/80688?checkedby:hlscat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",24 HABER UHD
-http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/80688?checkedby:hlscat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",24 HORAS
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51679?checkedby:hlscat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",24 HORAS
-http://rv.therevenge.co:80/0555141902/3893970296/79344?checkedby:hlscat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",24 HORAS
-http://185.71.64.167:80/7654321/1234567/79344?checkedby:hlscat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",24 KITCHEN
-http://cdnmedia.me:8080/abdullahagbulut/blut54/137?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",24 KITCHEN
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/47889?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",24 KITCHEN
-http://rv.imax.re:80/3Tst9ZqgUA/2dqWR5IiMh/85273?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",24 KITCHEN
-http://mongomax.myeffect.net:8079/live/vkund1/kundv1/891.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",24 KITCHEN HD
-http://rv.therevenge.co:80/0555141902/3893970296/79745?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",24 KITCHEN HD
-http://rv.therevenge.co:80/691616211141151/691616211141151/81668?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",24 KITCHEN HD
-http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/81789?checkedby:hlscat.com
-#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",24 KITCHEN HD
-http://rv.therevenge.co:80/uC51d0zVwRoVMIN/5ODtKSZavorYoRx/79542?checkedby:hlscat.com
-#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",24 KITCHEN HD
-http://rv.therevenge.co:80/691616211141151/691616211141151/79745?checkedby:hlscat.com
-#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",24 KITCHEN HD
-http://rv.therevenge.co:80/4908160900/9082042820/79542?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",24 KITCHEN HD
-http://rv.therevenge.co:80/691616211141151/691616211141151/81789?checkedby:hlscat.com
-#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",24 KITCHEN HD
-http://rv.imax.re:80/3Tst9ZqgUA/2dqWR5IiMh/79542?checkedby:hlscat.com
-#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",24 KITCHEN HD
-http://mongomax.myeffect.net:8079/live/vkund1/kundv1/6011.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",24 KITCHEN HD
-http://rv.imax.re:80/3Tst9ZqgUA/2dqWR5IiMh/81668?checkedby:hlscat.com
-#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",24 Kitchen
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/1802?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",24 Kitchen
-https://cdn1.mobiletv.bg/T3/24kitchen/24kitchen_794613_850k.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",24 Kitchen
-http://dimapro.cz:8080/N2vdf6yju0/ntH7B86Dp6/18556?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",24 Kitchen
-http://tv.nova-iptv.com:80/Robert_Valpotic/HuAYmBHcU2/601?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",24 Kitchen FullHD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/49965?checkedby:hlscat.com
-#EXTINF:0 tvg-country="PL" tvg-logo="" group-title="Undefined",24 Kitchen HD
-http://clientportal-worldiptv.club:8080/Albania/12345678/12609?checkedby:hlscat.com
-#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",24 Kitchen HD
-http://tv.nova-iptv.com:80/Robert_Valpotic/HuAYmBHcU2/8327?checkedby:hlscat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",24 TV
-https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8?__mn_sid=8997673748844384653&checkedby:hlscat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",24 TV
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/48425?checkedby:hlscat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",24 TV HD
-https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JASRBR.png" group-title="Undefined",24 TV [HD]
-https://canli.ensonhaber.com/tr/24tv/index.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",24 Vesti
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/47890?checkedby:hlscat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",24 Украина
-http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",24h (TV)(SD)
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/55020?checkedby:hlscat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",24h Canarias
-https://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@300207/master.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",2BEIN SPORTS 1 [SD]
-http://46.105.178.212:8484/hls/ntvspor/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",2FHDitchen
-http://iptvtree.net:8080/82a28920/ce46da4c/200356?checkedby:hlscat.com
-#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",2x2 HD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51491?checkedby:hlscat.com
-#EXTINF:0 tvg-country="CH" tvg-logo="" group-title="Undefined",3  HD
-http://mongomax.myeffect.net:8079/live/vkund1/kundv1/5333.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",3 Plus
-http://mondial.cybergroup.top:8080/Bughi/Bughi/88530?checkedby:hlscat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",3 SAT
-http://rv.imax.re:80/3Tst9ZqgUA/2dqWR5IiMh/81627?checkedby:hlscat.com
-#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",3 SAT FHD
-http://sibfungold.com:8080/dooby1312@bagio/WhE4rkfwBexCQZUWvJWhE4r3S7h451312@dooby/51635?checkedby:hlscat.com
+#PLAYLIST:iptvcat.com
+#EXTINF:0 tvg-country="BA" tvg-logo="https://i.imgur.com/AD3Ak7T.png" group-title="Undefined",Hema Televizija
+http://77.238.209.50:8080/hema1?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/W3FBVwT.png" group-title="Undefined",HRT 1 [NO KODI]
+http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/W3FBVwT.png" group-title="Undefined",HRT 1 [NO KODI]
+http://195.29.70.67/PLTV/88888888/224/3221226139/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/W3FBVwT.png" group-title="Undefined",HRT 1 [NO KODI]
+http://195.29.70.67/PLTV/88888888/224/3221226139/03.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/W3FBVwT.png" group-title="Undefined",HRT 1 [NO KODI]
+http://195.29.70.67/PLTV/88888888/224/3221226139/01.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/7swOkC3.png" group-title="Undefined",HRT 2 [NO KODI]
+http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/7swOkC3.png" group-title="Undefined",HRT 2 [NO KODI]
+http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/7swOkC3.png" group-title="Undefined",HRT 2 [NO KODI]
+http://195.29.70.67/PLTV/88888888/224/3221226140/03.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/7swOkC3.png" group-title="Undefined",HRT 2 [NO KODI]
+http://195.29.70.67/PLTV/88888888/224/3221226140/02.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/7swOkC3.png" group-title="Undefined",HRT 2 [NO KODI]
+http://195.29.70.67/PLTV/88888888/224/3221226140/01.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/0hrv92c.png" group-title="Undefined",HRT 3 [NO KODI]
+http://195.29.70.67/PLTV/88888888/224/3221226280/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/0hrv92c.png" group-title="Undefined",HRT 3 [NO KODI]
+http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/0hrv92c.png" group-title="Undefined",HRT 3 [NO KODI]
+http://195.29.70.67/PLTV/88888888/224/3221226280/03.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/0hrv92c.png" group-title="Undefined",HRT 3 [NO KODI]
+http://195.29.70.67/PLTV/88888888/224/3221226280/01.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/UVFs4zA.png" group-title="Undefined",HRT 4 [NO KODI]
+http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/UVFs4zA.png" group-title="Undefined",HRT 4 [NO KODI]
+http://195.29.70.67/PLTV/88888888/224/3221226281/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/UVFs4zA.png" group-title="Undefined",HRT 4 [NO KODI]
+http://195.29.70.67/PLTV/88888888/224/3221226281/03.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/UVFs4zA.png" group-title="Undefined",HRT 4 [NO KODI]
+http://195.29.70.67/PLTV/88888888/224/3221226281/01.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/RApnwWl.jpg" group-title="Undefined",MAXtv Promo Kanal [NO KODI]
+http://195.29.70.84/PLTV/88888888/224/3221226027/04.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/RApnwWl.jpg" group-title="Undefined",MAXtv Promo Kanal [NO KODI]
+http://195.29.70.67/PLTV/88888888/224/3221226027/04.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/RApnwWl.jpg" group-title="Undefined",MAXtv Promo Kanal [NO KODI]
+http://195.29.70.67/PLTV/88888888/224/3221226027/03.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/RApnwWl.jpg" group-title="Undefined",MAXtv Promo Kanal [NO KODI]
+http://195.29.70.67/PLTV/88888888/224/3221226027/02.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/RApnwWl.jpg" group-title="Undefined",MAXtv Promo Kanal [NO KODI]
+http://195.29.70.67/PLTV/88888888/224/3221226027/01.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/Q8eH5zN.jpg" group-title="Undefined",NewsBar [NO KODI]
+http://195.29.70.89/PLTV/88888888/224/3221226407/04.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/Q8eH5zN.jpg" group-title="Undefined",NewsBar [NO KODI]
+http://195.29.70.67/PLTV/88888888/224/3221226407/04.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/Q8eH5zN.jpg" group-title="Undefined",NewsBar [NO KODI]
+http://195.29.70.67/PLTV/88888888/224/3221226407/03.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/Q8eH5zN.jpg" group-title="Undefined",NewsBar [NO KODI]
+http://195.29.70.67/PLTV/88888888/224/3221226407/02.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/Q8eH5zN.jpg" group-title="Undefined",NewsBar [NO KODI]
+http://195.29.70.67/PLTV/88888888/224/3221226407/01.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/aJGNyQn.png" group-title="Undefined",RTL [NO KODI]
+http://195.29.70.67/PLTV/88888888/224/3221226195/01.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/aJGNyQn.png" group-title="Undefined",RTL [NO KODI]
+http://195.29.70.67/PLTV/88888888/224/3221226195/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/aJGNyQn.png" group-title="Undefined",RTL [NO KODI]
+http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/aJGNyQn.png" group-title="Undefined",RTL [NO KODI]
+http://195.29.70.67/PLTV/88888888/224/3221226195/03.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/7q3g8AS.png" group-title="Undefined",Radio Televizija Banovina
+rtmp://video.radio-banovina.hr/live/myStream?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/S75GJym.png" group-title="Undefined",Slavonska TV
+http://89.201.163.244:8080/hls/hdmi.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HR" tvg-logo="https://i.imgur.com/gdaxFrx.jpg" group-title="Undefined",Z1
+http://api.new.livestream.com/accounts/26764475/events/8122530/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/LTkYnzl.png" group-title="Undefined",RTK 1 HD
+http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/LTkYnzl.png" group-title="Undefined",RTK 1 HD
+http://84.22.56.10:1935/rtk1stream/rtk1.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/RQI1pBn.png" group-title="Undefined",RTK 3
+http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/RQI1pBn.png" group-title="Undefined",RTK 3
+http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/chunklist_w2121045972.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/RQI1pBn.png" group-title="Undefined",RTK 3
+http://stream1.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/H4EWXF3.png" group-title="Undefined",RTK 4
+http://stream2.rtkit.com:1935/rtk4stream/rtk4.stream/chunklist_w599618358.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/H4EWXF3.png" group-title="Undefined",RTK 4
+http://stream1.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/H4EWXF3.png" group-title="Undefined",RTK 4
+http://84.22.56.10:1935/rtk4stream/rtk4.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="XK" tvg-logo="https://i.imgur.com/gfdZq6D.jpg" group-title="Undefined",TV Dielli
+http://51.15.180.159:8081/play/hls/dielli/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ME" tvg-logo="https://i.imgur.com/vAzXsBM.jpg" group-title="Undefined",777 Tehnika TV
+http://109.123.70.27:1935/tehnikatv777/tehnikatv777/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ME" tvg-logo="https://i.imgur.com/jozQP6Z.png" group-title="Undefined",RTCG Sat
+http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.1.stream/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="ME" tvg-logo="https://i.imgur.com/jozQP6Z.png" group-title="Undefined",RTCG Sat
+http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.2.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MK" tvg-logo="" group-title="Music",LiveTV HD
+rtmp://live.livetvhd.cf/live/livetvhd?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MK" tvg-logo="https://www.vip.mk/documents/20126/103124/mrt1.png" group-title="Undefined",MRT 1
+http://190.2.154.72:8081/tvstanici/5mob/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MK" tvg-logo="https://www.vip.mk/documents/20126/103124/alfa.png" group-title="Undefined",Алфа ТВ
+http://190.2.154.72:8081/tvstanici/33/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MK" tvg-logo="" group-title="Undefined",Фолк ТВ
+http://51.254.45.61:8080/hls/folkmk2.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RS" tvg-logo="https://i.imgur.com/gkgYixn.jpg" group-title="Undefined",RTV Puls
+http://stream.rtvpuls.com/broadcasting?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RS" tvg-logo="https://i.imgur.com/NLxTA0Z.png" group-title="Music",Radio S1
+http://91.148.117.134:1935/radios/radiosweb.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RS" tvg-logo="https://i.imgur.com/1p4U6TP.png" group-title="Undefined",Studio B
+http://195.252.96.7:1935/webstudiob/webstudiob.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RS" tvg-logo="https://i.imgur.com/EaEkaMQ.png" group-title="Undefined",T7
+https://puma.gjirafa.com/live/ZvTsY6MH7RPPvXuUDjRjcEYkK7yryigW/yzg0yt720/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RS" tvg-logo="https://i.imgur.com/0RcNFXt.jpg" group-title="Music",TV Duga Plus
+http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RS" tvg-logo="https://i.imgur.com/Msxeu2S.png" group-title="Undefined",TV Hram
+http://178.253.194.75:1935/live/hram.stream/.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RS" tvg-logo="https://i.imgur.com/GdYHpXO.png" group-title="Undefined",Telegraf TV
+http://now.tf.rs/2016/11/3/RETROSPEKTIVA_0211/RETROSPEKTIVA_0211.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RS" tvg-logo="https://i.imgur.com/GkqifMa.jpg" group-title="Undefined",Televizija Leskovac
+http://best.str.nettvplus.com:8080/stream/?channel=tvleskovac&stream=1mb&sp=nettvplus?u=X0B2YB95&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SI" tvg-logo="https://i.imgur.com/ogq22B7.png" group-title="Undefined",MMC
+https://29-rtvslo-tv-mmc-int.cdn.eurovisioncdn.net/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SI" tvg-logo="https://i.imgur.com/XzkurJ3.png" group-title="Undefined",TV KOPER
+https://27-rtvslo-tv-kp-int.cdn.eurovisioncdn.net/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SI" tvg-logo="https://i.imgur.com/jnEPJoV.png" group-title="Undefined",TV MARIBOR
+https://25-rtvslo-tv-mb-int.cdn.eurovisioncdn.net/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SI" tvg-logo="https://i.imgur.com/3t60yS0.png" group-title="Undefined",TV SLOVENIJA 1
+https://31-rtvslo-tv-slo1-int.cdn.eurovisioncdn.net/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SI" tvg-logo="https://i.imgur.com/QweABvP.png" group-title="Undefined",TV SLOVENIJA 2
+https://21-rtvslo-tv-slo2-int.cdn.eurovisioncdn.net/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SI" tvg-logo="https://i.imgur.com/uO0QUzi.png" group-title="Undefined",TV SLOVENIJA 3
+https://16-rtvslo-tv-slo3-int.cdn.eurovisioncdn.net/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",HRT 1
+http://195.29.70.82/PLTV/88888888/224/3221226139/04.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="https://i.imgur.com/PxBCBms.png" group-title="Undefined",HRT 1 (Opt-1)
+http://195.29.70.84/PLTV/88888888/224/3221226139/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="https://i.imgur.com/PxBCBms.png" group-title="Undefined",HRT 2 (Opt-2)
+http://195.29.70.67/PLTV/88888888/224/3221226140/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",HRT 3
+http://195.29.70.82/PLTV/88888888/224/3221226280/04.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",HRT 4
+http://195.29.70.82/PLTV/88888888/224/3221226281/04.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="https://i.imgur.com/krOwpXO.png" group-title="Undefined",Jefimija TV
+rtmp://212.200.108.253/live/jefimija.flv?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="http://nextgen-iptv.com/Logos/bih/tv_sarajevo.png" group-title="Undefined",TV Sarajevo
+rtmp://91.148.117.134:1935/radios/radiosweb.stream?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="https://i.imgur.com/C0PQW8U.png" group-title="Undefined",Trend TV
+rtmp://185.62.75.22:1935/trend/myStream?checkedby:iptvcat.com
